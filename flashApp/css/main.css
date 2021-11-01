@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ {
+    background-color: rgb(126, 219, 231);
+    display: flex;
+    width: 15%;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+li {
+list-style-type: none;
+margin: 10px 10px;
+
+
+#add-Card {
+    
+}
